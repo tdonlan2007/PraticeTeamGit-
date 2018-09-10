@@ -1,3 +1,7 @@
 <h1>
 Hello Coleman
 </h1>
+
+<p1>
+Life is easy if you wear a smile
+</p2>
